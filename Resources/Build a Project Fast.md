@@ -98,6 +98,3 @@ Found an amazing resource? Want to add your favorite course? Check out our [CONT
 ### ⭐ Found this helpful? Give this Repo a STAR!
 
 [![parth-builds-os Github Repo Footer](https://github.com/user-attachments/assets/4bef3a04-16ee-4484-a52c-4f31182e1916)](https://github.com/parthnarkar/parth-builds-os)
----
-
-Let me know if you want me to turn this into a DM template or a PDF-style document.
